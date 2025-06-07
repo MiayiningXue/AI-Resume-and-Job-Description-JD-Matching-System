@@ -1,4 +1,4 @@
-[Open In Colab] (https://colab.research.google.com/github/MiayiningXue/AI-Resume-and-Job-Description-JD-Matching-System/blob/main/AI-Resume-and-Job-Description-JD-Matching-System.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiayiningXue/AI-Resume-and-Job-Description-JD-Matching-System/blob/main/AI-Resume-and-Job-Description-JD-Matching-System.ipynb)
 
 # AI-Resume-and-Job-Description-JD-Matching-System
 
