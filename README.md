@@ -1,5 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiayiningXue/AI-Resume-and-Job-Description-JD-Matching-System/blob/main/AI-Resume-and-Job-Description-JD-Matching-System.ipynb)
-
 # AI-Resume-and-Job-Description-JD-Matching-System
 
 In this project, I developed an AI-powered resume and job description (JD) matching system using both the TF-IDF and BERT methods.
